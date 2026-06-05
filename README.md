@@ -65,10 +65,10 @@ endmodule
 */
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
-<img width="375" height="165" alt="image" src="https://github.com/user-attachments/assets/fec3c239-9e90-4f2a-bc71-30339b29357e" />
+<img width="1919" height="1070" alt="image" src="https://github.com/user-attachments/assets/29bf7a3d-2ff8-47b3-8a73-fa815089bf2d" />
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-<img width="375" height="165" alt="image" src="https://github.com/user-attachments/assets/3563b01f-a00f-45f2-9a42-12608ac5c78d" />
+<img width="1047" height="495" alt="image" src="https://github.com/user-attachments/assets/4db4e480-4dd4-409b-9494-49b7c7abd32b" />
 
 **RESULTS**
 Thus, the program is executed successfully and obtained the output.
